@@ -54,7 +54,7 @@ This app fetches data from [JSONPlaceholder](https://jsonplaceholder.typicode.co
 The app is styled using **Tailwind CSS**, providing a clean and modern design.
 
 ## 📸 Screenshots
-![App Screenshot](../web-view.png)
+![App Screenshot](https://raw.githubusercontent.com/HassaanMemon026/My-First-React-App/refs/heads/main/public/web-view.png)
 
 ## ✨ Future Enhancements
 - Implement dark/light mode.
