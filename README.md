@@ -14,8 +14,8 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone gh repo clone HassaanMemon026/My-First-React-App
+cd My-First-React-App
 ```
 
 ### 2. Install Dependencies
@@ -25,10 +25,10 @@ npm install
 
 ### 3. Start the Development Server
 ```bash
-npm start
+npm run dev
 ```
 
-The app will be live at `http://localhost:3000`.
+The app will be live at `http://localhost:5173`.
 
 ## 🏗 Project Structure
 ```
@@ -39,8 +39,9 @@ The app will be live at `http://localhost:3000`.
 │   │   ├── Card.jsx
 │   │   ├── Footer.jsx
 │   ├── App.jsx
-│   ├── index.js
+│   ├── index.css
 │   ├── App.css
+    ├── main.jsx
 ├── public
 ├── package.json
 └── README.md
@@ -53,7 +54,7 @@ This app fetches data from [JSONPlaceholder](https://jsonplaceholder.typicode.co
 The app is styled using **Tailwind CSS**, providing a clean and modern design.
 
 ## 📸 Screenshots
-![App Screenshot](https://via.placeholder.com/800x400.png?text=App+Preview)
+![App Screenshot](../web-view.png)
 
 ## ✨ Future Enhancements
 - Implement dark/light mode.
